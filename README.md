@@ -1,0 +1,1 @@
+# Faucethub.io dice bot
