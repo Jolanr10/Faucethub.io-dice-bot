@@ -2,4 +2,4 @@
 
 <b>Usage</b>
 
-Copy faucethubv2.js file content to browser developer console(f12)
+Copy faucethub.js file content to browser developer console(f12)
