@@ -1,3 +1,0 @@
-$('div.row.dice-auto-content-holder.dice-content-holder > div :input').each(function(){
-	$(this).removeAttr('disabled');
-});
